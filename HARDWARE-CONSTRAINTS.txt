@@ -1,19 +1,10 @@
-STUDY BOT - WHY WE'RE STUCK
+STUDY BOT - WHY IT'S BLOCKED
 
-We only have: ESP32, small speaker, 2 small LCD screens, ISD1820 voice module.
+We only have the wrong parts. We're missing wires and basic tools, so nothing can be connected.
 
-Problems:
+- No wires / no soldering iron = can't connect anything.
+- No real microphone = bot mishears us.
+- No amplifier = speaker is quiet and robotic.
+- Screens need extra parts we don't have.
 
-1. No wires, no breadboard, no soldering iron. So we can't connect anything.
-
-2. No proper microphone. The ISD1820's mic is old and low quality, so the bot would mishear us a lot.
-
-3. No amplifier. The speaker would be very quiet and sound robotic.
-
-4. The LCD screens need ~6 wires + a contrast dial each, which we don't have. They may show nothing.
-
-5. Everything pulls power from the tiny USB supply, so it can crash.
-
-6. With the bad mic, the "wake word" won't work well.
-
-Bottom line: the parts we have are the wrong type, and we're missing wires and basic tools. So the device can't be built yet.
+Bottom line: we can't build the device yet.
