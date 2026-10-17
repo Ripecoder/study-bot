@@ -1,10 +1,5 @@
-STUDY BOT - WHY IT'S BLOCKED
+STUDY BOT - WHY IT'S STUCK
 
-We only have the wrong parts. We're missing wires and basic tools, so nothing can be connected.
+We can't build it yet: we're missing wires, tools, and the right parts (no real mic, no amplifier), so nothing can be connected.
 
-- No wires / no soldering iron = can't connect anything.
-- No real microphone = bot mishears us.
-- No amplifier = speaker is quiet and robotic.
-- Screens need extra parts we don't have.
-
-Bottom line: we can't build the device yet.
+Honestly, this build needs soldering and wiring skills, so we'd need someone to help assemble it.
